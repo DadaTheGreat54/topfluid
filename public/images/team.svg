@@ -1,0 +1,18 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" rx="16" fill="url(#teamGradient)"/>
+  <g opacity="0.8">
+    <circle cx="150" cy="200" r="60" fill="#F3F4F6"/>
+    <path d="M150 220C127.909 220 110 237.909 110 260V340H190V260C190 237.909 172.091 220 150 220Z" fill="#E5E7EB"/>
+    <circle cx="300" cy="180" r="60" fill="#F3F4F6"/>
+    <path d="M300 200C277.909 200 260 217.909 260 240V340H340V240C340 217.909 322.091 200 300 200Z" fill="#E5E7EB"/>
+    <circle cx="450" cy="200" r="60" fill="#F3F4F6"/>
+    <path d="M450 220C427.909 220 410 237.909 410 260V340H490V260C490 237.909 472.091 220 450 220Z" fill="#E5E7EB"/>
+  </g>
+  <text x="300" y="80" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">Notre Équipe</text>
+  <defs>
+    <linearGradient id="teamGradient" x1="0" y1="0" x2="600" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#6366F1"/>
+    </linearGradient>
+  </defs>
+</svg>
