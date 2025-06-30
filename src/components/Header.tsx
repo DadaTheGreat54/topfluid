@@ -29,7 +29,7 @@ export default function Header() {
           <Link href="/" className={`text-2xl font-bold transition-colors ${
             scrolled ? 'text-blue-600' : 'text-white'
           }`}>
-            TechSolutions
+            Topfluid
           </Link>
           <ul className="flex space-x-8">
             <li>
@@ -50,14 +50,14 @@ export default function Header() {
               <button onClick={() => scrollToSection('portfolio')} className={`font-medium transition-colors hover:text-blue-400 ${
                 scrolled ? 'text-gray-700 hover:text-blue-600' : 'text-white'
               }`}>
-                Portfolio
+                Réalisations
               </button>
             </li>
             <li>
               <button onClick={() => scrollToSection('about')} className={`font-medium transition-colors hover:text-blue-400 ${
                 scrolled ? 'text-gray-700 hover:text-blue-600' : 'text-white'
               }`}>
-                À propos
+                Qui sommes-nous
               </button>
             </li>
             <li>

@@ -5,7 +5,7 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'TechSolutions - Solutions numériques sur mesure',
+  title: 'Topfluid - Solutions numériques sur mesure',
   description: 'Développement d\'outils techniques adaptés à vos besoins. Automatisation, intégrations, applications métier pour optimiser vos processus.',
 }
 

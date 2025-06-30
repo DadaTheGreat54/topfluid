@@ -109,7 +109,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Portfolio Section */}
+      {/* Réalisations Section */}
       <section id="portfolio" className="py-20 bg-white">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
@@ -146,13 +146,13 @@ export default function Home() {
         </div>
       </section>
 
-      {/* About Section */}
+      {/* Qui sommes-nous Section */}
       <section id="about" className="py-20 bg-gray-50">
         <div className="container mx-auto px-4">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-4xl md:text-5xl font-bold mb-6 text-gray-800">
-                À propos de nous
+                Qui sommes-nous
               </h2>
               <p className="text-lg text-gray-600 mb-6">
                 Depuis plus de 10 ans, nous accompagnons les entreprises dans leur transformation digitale. 

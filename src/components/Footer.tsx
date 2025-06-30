@@ -6,11 +6,11 @@ export default function Footer() {
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-4 md:mb-0">
-            <p className="font-semibold text-gray-800">TechSolutions</p>
-            <p className="text-sm">&copy; 2024 TechSolutions. Tous droits réservés.</p>
+            <p className="font-semibold text-gray-800">Topfluid</p>
+            <p className="text-sm">&copy; 2024 Topfluid. Tous droits réservés.</p>
           </div>
           <div className="flex flex-col md:flex-row items-center gap-4 text-sm">
-            <span>contact@techsolutions.fr</span>
+            <span>contact@topfluid.fr</span>
             <span className="hidden md:inline">•</span>
             <span>01 23 45 67 89</span>
             <span className="hidden md:inline">•</span>
